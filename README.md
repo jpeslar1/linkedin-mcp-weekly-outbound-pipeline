@@ -1,5 +1,7 @@
 # linkedin-mcp-weekly-outbound-pipeline
 
+> **Part of the [AI SDR Kit](https://github.com/zevarihq/ai-sdr-kit), the open-source AI SDR harness.** Install the kit to give your agent the whole outbound playbook (setup SOP and every LinkedIn and email sequence), then run this play on top of it.
+
 A Claude Code prompt I run every Wednesday morning to push 10 cold prospects through a full pipeline: research → ICP check → personalized hook → Instantly enrollment → LinkedIn MCP save → Google Sheet update → Slack summary.
 
 Sharing it because I'd want this myself.
